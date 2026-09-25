@@ -4,7 +4,7 @@
 
 This is an independent Learning & Development portfolio project designed and administered in **TalentLMS**.
 
-The project demonstrates how a competency-based, on-the-job training programme can be structured for an **entry-level IT Support Technician**. The course focuses on practical workplace capability rather than content completion alone. Learners progress through structured learning units, scenario-based activities and instructor-reviewed practical assessments before competency sign-off.
+The project demonstrates how a competency-based, on-the-job training programme can be structured for an **entry-level IT Support Technician**. The course focuses on practical workplace capability. Learners progress through structured learning units, scenario-based activities and instructor-reviewed practical assessments before competency sign-off.
 
 > **Note:** This is an independent portfolio project and is not an official training programme of any employer or organisation.
 
@@ -43,14 +43,14 @@ Each competency follows a consistent learning sequence:
 
 The programme includes:
 
-- Clearly defined competency requirements
+- Competency requirements
 - Sequential course progression
-- Short, task-focused learning units
-- Scenario-based activities
-- Instructor-reviewed assignments
+- Learning units that focuses on tasks
+- Activities based on scenarios
+- Assignments reviewed by Instructors
 - Competency sign-off criteria
 - Learner enrolment and progress tracking
-- Course and training-status reporting
+- Reporting of the status of the Course and Training 
 
 The practical assessments are designed to evaluate whether a learner can **apply** the required process, rather than only recall information.
 
@@ -191,38 +191,6 @@ The reporting stage is intended to demonstrate how an L&D administrator can prov
 - **Scenario-based learning design** — practical workplace activities and assessments
 - **Competency-based assessment** — evidence-focused practical sign-off
 - **GitHub** — project documentation and portfolio presentation
-
----
-
-## Screenshots
-
-Add your screenshots to a folder called `screenshots` and use the following structure:
-
-```text
-screenshots/
-├── 01-course-overview.png
-├── 02-course-structure.png
-├── 03-learning-scenario.png
-├── 04-practical-assessment.png
-├── 05-learner-progress.png
-└── 06-training-matrix.png
-```
-
-Then display them in this README using:
-
-```markdown
-![Course overview](screenshots/01-course-overview.png)
-
-![Course structure](screenshots/02-course-structure.png)
-
-![Scenario-based learning activity](screenshots/03-learning-scenario.png)
-
-![Practical assessment](screenshots/04-practical-assessment.png)
-
-![Learner progress](screenshots/05-learner-progress.png)
-
-![Training matrix](screenshots/06-training-matrix.png)
-```
 
 ---
 
