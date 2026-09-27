@@ -192,39 +192,6 @@ The reporting stage is intended to demonstrate how an L&D administrator can prov
 - **Competency-based assessment** — evidence-focused practical sign-off
 - **GitHub** — project documentation and portfolio presentation
 
----
-
-## Screenshots
-
-Add your screenshots to a folder called `screenshots` and use the following structure:
-
-```text
-screenshots/
-├── 01-course-overview.png
-├── 02-course-structure.png
-├── 03-learning-scenario.png
-├── 04-practical-assessment.png
-├── 05-learner-progress.png
-└── 06-training-matrix.png
-```
-
-Then display them in this README using:
-
-```markdown
-![Course overview](screenshots/01-course-overview.png)
-
-![Course structure](screenshots/02-course-structure.png)
-
-![Scenario-based learning activity](screenshots/03-learning-scenario.png)
-
-![Practical assessment](screenshots/04-practical-assessment.png)
-
-![Learner progress](screenshots/05-learner-progress.png)
-
-![Training matrix](screenshots/06-training-matrix.png)
-```
-
----
 
 ## What I Learned
 
