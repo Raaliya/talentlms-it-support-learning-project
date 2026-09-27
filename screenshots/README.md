@@ -13,3 +13,9 @@ The screenshots demonstrate the course structure, learning activities, assessmen
 - **05-progress-report.png** — Learner enrolment, completion status or progress-reporting features within TalentLMS.
 
 Any personal information, email addresses and learner-identifying details have been removed or concealed.
+
+
+Scenario-based learning
+This activity presents learners with a suspected phishing incident involving a fraudulent Microsoft Teams meeting link. Learners must identify warning signs, determine what information should be collected, advise the affected user, preserve relevant evidence and decide whether the incident requires escalation.
+
+![Security incident learning scenario](screenshots/03-learning-scenario.png)
