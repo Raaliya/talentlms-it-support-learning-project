@@ -211,14 +211,6 @@ The project also reinforced the difference between **course completion** and **d
 
 ---
 
-## Project Status
-
-**In progress — 2026**
-
-The core course structure, competency-based learning units, practical assessments and learner-testing workflow have been developed in TalentLMS. Reporting evidence and final portfolio screenshots will be added as the project is completed.
-
----
-
 ## Repository Purpose
 
 This repository is intended to document the design process and demonstrate practical Learning & Development and LMS administration skills.
